@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cMAerOYzWdbYSZQkPFgwZStOE89qFX2PBAcPyxJgnlQKHe/3PEyE8eYHBt2Y8+TopEeLPf0faKNIKYDa7DxrtQ==",
+  "dgSpecHash": "C5wRD7Ah+zD77AaxLAH7HVxvDbkrB1NZL/3esYmgMaMNXPHstdtI4iR9AB//ZbxF3xoZ9bFCCWMCvINsYONgYw==",
   "success": true,
   "projectFilePath": "/Users/julianolourencettipinheiro/RiderProjects/CadastroClientes/CadastroClientes/CadastroClientes.csproj",
   "expectedPackageFiles": [
@@ -177,7 +177,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'log4net 2.0.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "message": "O pacote 'log4net 2.0.5' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net8.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
       "libraryId": "log4net",
       "targetGraphs": [
         "net8.0"
@@ -187,7 +187,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Migrations 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "message": "O pacote 'Migrations 1.0.1' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net8.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
       "libraryId": "Migrations",
       "targetGraphs": [
         "net8.0"
